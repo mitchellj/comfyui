@@ -19,10 +19,22 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    
+    https://github.com/city96/ComfyUI-GGUF
+    https://github.com/Gourieff/comfyui-reactor-node
+    https://github.com/kijai/ComfyUI-Florence2
+    https://github.com/yolain/ComfyUI-Easy-Use
+    https://github.com/nkchocoai/ComfyUI-SaveImageWithMetaData
+    https://github.com/ronniebasak/ComfyUI-Tara-LLM-Integration
+    https://github.com/un-seen/comfyui-tensorops
 )
 
 CHECKPOINT_MODELS=(
+    # TimeLess XL - XPlus 1 
+    https://civitai.com/models/118111?modelVersionId=778112
+
+    # Flux 1.D
+    https://civitai.com/models/618692/flux
+    
 )
 
 CLIP_MODELS=(
@@ -34,9 +46,19 @@ UNET_MODELS=(
 )
 
 VAE_MODELS=(
+    # Flux 1 Dev
+    https://civitai.com/models/619150/flux1-dev-vae
 )
 
 LORA_MODELS=(
+    # Vibrant Art
+    https://civitai.com/models/735338/vibrant-art
+
+    # Sub poses
+    https://civitai.com/models/590046/submissive-poses
+
+    # Male Sub 
+    https://civitai.com/models/581430/male-sub
 )
 
 ESRGAN_MODELS=(
