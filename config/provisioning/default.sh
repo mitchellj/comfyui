@@ -31,10 +31,10 @@ NODES=(
 
 CHECKPOINT_MODELS=(
     # TimeLess XL - XPlus 1 
-    https://civitai.com/models/118111?modelVersionId=778112
+    https://civitai.com/api/download/models/778112?type=Model&format=SafeTensor&size=pruned&fp=fp8
 
     # Flux 1.D
-    https://civitai.com/models/618692/flux
+    https://civitai.com/api/download/models/691639?type=Model&format=SafeTensor&size=full&fp=fp32
     
 )
 
@@ -53,13 +53,13 @@ VAE_MODELS=(
 
 LORA_MODELS=(
     # Vibrant Art
-    https://civitai.com/models/735338/vibrant-art
+    https://civitai.com/api/download/models/822315?type=Model&format=SafeTensor
 
     # Sub poses
-    https://civitai.com/models/590046/submissive-poses
+    https://civitai.com/api/download/models/777444?type=Model&format=SafeTensor
 
     # Male Sub 
-    https://civitai.com/models/581430/male-sub
+    https://civitai.com/api/download/models/648536?type=Model&format=SafeTensor
 )
 
 ESRGAN_MODELS=(
