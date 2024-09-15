@@ -14,7 +14,8 @@ APT_PACKAGES=(
 )
 
 PIP_PACKAGES=(
-    #"package-1"
+    # piexif - used for exif data manipulation
+    piexif
     #"package-2"
 )
 
