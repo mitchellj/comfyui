@@ -238,7 +238,7 @@ function provisioning_download() {
     elif 
         [[ -n $CIVITAI_TOKEN && $1 =~ ^https://([a-zA-Z0-9_-]+\.)?civitai\.com(/|$|\?) ]]; then
         auth_token="$CIVITAI_TOKEN"
-        civitdl -k $CIVITAI_TOKEN $1 $2
+        /opt/environments/python/comfyui/bin/civitdl -k $CIVITAI_TOKEN $1 $2
     fi
     if [[ -n $auth_token ]];then
         return 0
