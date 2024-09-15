@@ -20,21 +20,21 @@ PIP_PACKAGES=(
 )
 
 NODES=(
-    https://github.com/city96/ComfyUI-GGUF
-    https://github.com/Gourieff/comfyui-reactor-node
-    https://github.com/kijai/ComfyUI-Florence2
-    https://github.com/yolain/ComfyUI-Easy-Use
-    https://github.com/nkchocoai/ComfyUI-SaveImageWithMetaData
-    https://github.com/ronniebasak/ComfyUI-Tara-LLM-Integration
-    https://github.com/un-seen/comfyui-tensorops
+    "https://github.com/city96/ComfyUI-GGUF"
+    "https://github.com/Gourieff/comfyui-reactor-node"
+    "https://github.com/kijai/ComfyUI-Florence2"
+    "https://github.com/yolain/ComfyUI-Easy-Use"
+    "https://github.com/nkchocoai/ComfyUI-SaveImageWithMetaData"
+    "https://github.com/ronniebasak/ComfyUI-Tara-LLM-Integration"
+    "https://github.com/un-seen/comfyui-tensorops"
 )
 
 CHECKPOINT_MODELS=(
     # TimeLess XL - XPlus 1 
-    https://civitai.com/api/download/models/778112?type=Model&format=SafeTensor&size=pruned&fp=fp8
+    "https://civitai.com/api/download/models/778112?type=Model&format=SafeTensor&size=pruned&fp=fp8"
 
     # Flux 1.D
-    https://civitai.com/api/download/models/691639?type=Model&format=SafeTensor&size=full&fp=fp32
+    "https://civitai.com/api/download/models/691639?type=Model&format=SafeTensor&size=full&fp=fp32"
     
 )
 
@@ -48,18 +48,18 @@ UNET_MODELS=(
 
 VAE_MODELS=(
     # Flux 1 Dev
-    https://civitai.com/models/619150/flux1-dev-vae
+    "https://civitai.com/models/619150/flux1-dev-vae"
 )
 
 LORA_MODELS=(
     # Vibrant Art
-    https://civitai.com/api/download/models/822315?type=Model&format=SafeTensor
+    "https://civitai.com/api/download/models/822315?type=Model&format=SafeTensor"
 
     # Sub poses
-    https://civitai.com/api/download/models/777444?type=Model&format=SafeTensor
+    "https://civitai.com/api/download/models/777444?type=Model&format=SafeTensor"
 
     # Male Sub 
-    https://civitai.com/api/download/models/648536?type=Model&format=SafeTensor
+    "https://civitai.com/api/download/models/648536?type=Model&format=SafeTensor"
 )
 
 ESRGAN_MODELS=(
