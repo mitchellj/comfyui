@@ -45,6 +45,7 @@ CLIP_MODELS=(
 )
 
 UNET_MODELS=(
+    https://civitai.com/models/630820?modelVersionId=731514
 )
 
 VAE_MODELS=(
