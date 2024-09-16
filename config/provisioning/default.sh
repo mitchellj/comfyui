@@ -28,6 +28,7 @@ NODES=(
     "https://github.com/nkchocoai/ComfyUI-SaveImageWithMetaData"
     "https://github.com/ronniebasak/ComfyUI-Tara-LLM-Integration"
     "https://github.com/un-seen/comfyui-tensorops"
+    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
 )
 
 CHECKPOINT_MODELS=(
