@@ -32,11 +32,7 @@ NODES=(
 
 CHECKPOINT_MODELS=(
     # TimeLess XL - XPlus 1 
-    "https://civitai.com/models/118111?modelVersionId=778112"
-
-    # Flux 1.D
-    "https://civitai.com/models/618692?modelVersionId=691639"
-    
+    "https://civitai.com/models/118111?modelVersionId=778112"    
 )
 
 CLIP_MODELS=(
