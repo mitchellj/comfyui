@@ -34,6 +34,11 @@ NODES=(
 CHECKPOINT_MODELS=(
     # TimeLess XL - XPlus 1 
     "https://civitai.com/models/118111?modelVersionId=778112"    
+    
+    # Black Magic XL
+    "https://civitai.com/models/338023/black-magic-xl" 
+
+    
 )
 
 CLIP_MODELS=(
