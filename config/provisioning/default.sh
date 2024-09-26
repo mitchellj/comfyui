@@ -66,6 +66,15 @@ LORA_MODELS=(
 
     # Male Sub 
     "https://civitai.com/models/581430/male-sub"
+
+    # Flux Midjourney 
+    "https://civitai.com/models/646411/flux-meets-midjourney-v61-sdxl"
+
+    # Fantasy wizard and witches
+    "https://civitai.com/models/308147/fantasy-wizard-and-witches"
+
+    # kurzgesagt
+    "https://civitai.com/models/777200/kurzgesagt-art-style-flux"
 )
 
 ESRGAN_MODELS=(
