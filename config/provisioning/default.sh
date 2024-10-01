@@ -50,6 +50,9 @@ UNET_MODELS=(
     "https://civitai.com/models/630820?modelVersionId=731514"
     "https://civitai.com/models/118111?modelVersionId=805420"
     "https://civitai.com/models/673188?modelVersionId=757421"
+
+     # STOIQO Afrodite
+    "https://civitai.com/api/download/models/897489?type=Model&format=SafeTensor&size=full&fp=fp16"
 )
 
 VAE_MODELS=(
